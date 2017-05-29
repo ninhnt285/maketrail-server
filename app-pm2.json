@@ -4,10 +4,9 @@
       "name": "MakeTrail Web Server",
       "script": "npm",
       "args" : "start",
-      "watch": ["app"],
+      "watch": true,
       "ignore_watch" : ["node_modules"],
       "autorestart": true,
-      "restart_delay": 1000,
       "env": {
         "NODE_ENV": "production"
       }
