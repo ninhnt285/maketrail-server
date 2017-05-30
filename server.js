@@ -33,6 +33,7 @@ const getMetaFromUrl = async (path) => {
     <meta name="application-name" content="MakeTrail" />
 
     <!-- for Facebook -->
+    <meta property="fb:app_id" content="573300052811759" />
     <meta property="og:title" content="MakeTrail Website" />
     <meta property="og:type" content="article" />
     <meta property="og:image" content="http://static.maketrail.com/noImage/trip/1.jpg" />
