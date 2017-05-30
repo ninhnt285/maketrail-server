@@ -64,7 +64,6 @@ const getTripMeta = async (id) => {
       <!-- for Google -->
       <meta name="description" content="${trip.name}" />
       <meta name="keywords" content="travel, video, maketrail" />
-      <meta name="author" content="MakeTrail App" />
       <meta name="copyright" content="MakeTrail" />
       <meta name="application-name" content="MakeTrail" />
       <!-- for Facebook -->
