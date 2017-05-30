@@ -67,7 +67,6 @@ const getTripMeta = async (id) => {
       <meta name="author" content="MakeTrail App" />
       <meta name="copyright" content="MakeTrail" />
       <meta name="application-name" content="MakeTrail" />
-
       <!-- for Facebook -->
       <meta property="fb:app_id" content="573300052811759" />
       <meta property="og:title" content="${trip.name}" />
@@ -75,7 +74,6 @@ const getTripMeta = async (id) => {
       <meta property="og:image" content="${trip.previewPhotoUrl.replace('%s', '')}" />
       <meta property="og:url" content="http://maketrail.com/trip/${trip.id}" />
       <meta property="og:description" content="MakeTrail Trip" />
-
       <!-- for Twitter -->
       <meta name="twitter:card" content="summary" />
       <meta name="twitter:title" content="${trip.name}" />
