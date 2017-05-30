@@ -69,6 +69,7 @@ const getTripMeta = async (id) => {
       <meta name="application-name" content="MakeTrail" />
 
       <!-- for Facebook -->
+      <meta property="fb:app_id" content="573300052811759" />
       <meta property="og:title" content="${trip.name}" />
       <meta property="og:type" content="article" />
       <meta property="og:image" content="${trip.previewPhotoUrl.replace('%s', '')}" />
