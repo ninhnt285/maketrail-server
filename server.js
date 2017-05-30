@@ -28,7 +28,6 @@ const getMetaFromUrl = async (path) => {
     <!-- for Google -->
     <meta name="description" content="MakeTrail Website" />
     <meta name="keywords" content="travel, hotel, tour, plan, flight, video, maketrail" />
-    <meta name="author" content="MakeTrail App" />
     <meta name="copyright" content="MakeTrail" />
     <meta name="application-name" content="MakeTrail" />
 
